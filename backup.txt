@@ -1,0 +1,3 @@
+FruitBar f1 = new FruitBar ();
+f1.selectKeys("Strawberry");
+f1.addValue("Antioxidant Supreme", "Guarana");
